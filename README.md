@@ -8,8 +8,8 @@
   - EESP and arduino stuff
 
 - 🌱 I’m currently learning ...
-  -Python
-  -User module for tasmota
+  - Python
+  - ADD user module for tasmota
   
 - 💞️ I’m looking to collaborate on ...
   ...
